@@ -1,5 +1,5 @@
 # IDE-for-Simple-C
-Design and Implementation of IDE for Simple C简单C语言集成开发环境的设计与实现
+Design and Implementation of IDE for Simple C   简单C语言集成开发环境的设计与实现
 
 包含了词法分析、语法分析、语义分析、优化处理以及代码生成整个编译阶段。把简单C语言转化成汇编语言。还支持简单C语言的编辑。汇编语言也能在虚拟机运行。
 
