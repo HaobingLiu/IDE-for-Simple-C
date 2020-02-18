@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(22): warning C4305: “初始化”: 从“double”到“float”截断
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(47): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(123): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(131): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(264): warning C4566: 由通用字符名称“\u00FB”表示的字符不能在当前代码页(936)中表示出来
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(264): warning C4566: 由通用字符名称“\u00BA”表示的字符不能在当前代码页(936)中表示出来
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(264): warning C4566: 由通用字符名称“\u00C5”表示的字符不能在当前代码页(936)中表示出来
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(1195): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(1196): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(1423): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(1424): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(1724): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\liuwu\desktop\刘皓冰组\the tc idevol1\tcc\main.cpp(1788): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  tcc.vcxproj -> C:\Users\liuwu\Desktop\刘皓冰组\the tc IDEvol1\Debug\tcc.exe
